@@ -3,10 +3,10 @@ import random
 
 # List of vocabulary words and definitions
 vocab_list = [
-    {"word": "algorithm", "definition": "A step-by-step procedure for solving a problem or accomplishing a task."},
-    {"word": "abstraction", "definition": "The process of simplifying complex reality by modeling classes appropriate to the problem."},
+    {"word": "algorithm", "definition": "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer."},
+    {"word": "abstraction", "definition": "The process of simplifying and hiding complexities to focus on problems of greater importance."},
     {"word": "iteration", "definition": "The repetition of a process in order to generate a sequence of outcomes."},
-    {"word": "selection", "definition": "A decision-making structure that allows for choosing different paths based on conditions."},
+    {"word": "selection", "definition": "Decision-making that allows for choosing different paths based on conditions."},
     {"word": "variable", "definition": "A named storage location in a program that holds a value."}
 ]
 
