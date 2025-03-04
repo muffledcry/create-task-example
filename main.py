@@ -63,3 +63,13 @@ def main():
 # Run the program
 if __name__ == "__main__":
     main()
+
+
+# Collection: A list of dictionaries (vocab_list) stores words and definitions.
+# Managing Complexity: Using this list simplifies accessing and randomizing quiz questions. It also means I can easily add more words and definitions without changing the program.
+# Procedural Abstraction: The quiz_user() function abstracts the quiz process.
+# Algorithm Explanation:
+# - Sequencing: Code executes in order (select word, display choices, get input, check answer).
+# - Selection: Uses if statement to check correctness.
+# - Iteration: Uses a loop to keep the quiz running.
+# Testing: The quiz function is called multiple times with different random words.
